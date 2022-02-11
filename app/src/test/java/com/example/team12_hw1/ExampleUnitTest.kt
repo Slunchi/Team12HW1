@@ -17,4 +17,7 @@ class ExampleUnitTest {
     fun sayHI() {
         println ("hi")
     }
+    fun sayBye() {
+        println("bye")
+    }
 }
