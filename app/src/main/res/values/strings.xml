@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">Team 12 - HW1</string>
+    <string name="app_name">True or False</string>\
+    <string name="q1">1/10</string>
+    <string name="animal1">There is a species of monkey native to Europe</string>
+    <string name="q2">2/10</string>
+    <string name="animal2">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="q3">3/10</string>
+    <string name="animal3">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="q4">4/10</string>
+    <string name="animal4">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="q5">5/10</string>
+    <string name="animal5">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="q6">6/10</string>
+    <string name="animal6">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="q7">7/10</string>
+    <string name="animal7">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="q8">8/10</string>
+    <string name="animal8">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="q9">9/10</string>
+    <string name="animal9">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="q10">10/10</string>
+    <string name="animal10">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
 </resources>
