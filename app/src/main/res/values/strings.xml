@@ -1,23 +1,23 @@
 <resources>
     <string name="app_name">True or False</string>\
     <string name="q1">1/10</string>
-    <string name="animal1">There is a species of monkey native to Europe</string>
+    <string name="animal1">This is a species of monkey native to Europe</string>
     <string name="q2">2/10</string>
-    <string name="animal2">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="animal2">Female lions do 90% of the hunting</string> // True
     <string name="q3">3/10</string>
-    <string name="animal3">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="animal3">An ostrich\'s eye is larger than its brain</string> // True
     <string name="q4">4/10</string>
-    <string name="animal4">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="animal4">The alligator has the strongest bite of any animal</string> // False
     <string name="q5">5/10</string>
-    <string name="animal5">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="animal5">A flea can jump up to 300x its body length</string> // False
     <string name="q6">6/10</string>
-    <string name="animal6">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="animal6">At birth, kangaroos are only an inch long</string> // True
     <string name="q7">7/10</string>
-    <string name="animal7">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="animal7">Just under half of all pigs in the world can be found in China</string> // False
     <string name="q8">8/10</string>
-    <string name="animal8">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="animal8">A woodpecker can peck 20 times per second</string> // True
     <string name="q9">9/10</string>
-    <string name="animal9">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="animal9">Koala\'s fingerprints look nearly identical to those of humans</string> // True
     <string name="q10">10/10</string>
-    <string name="animal10">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="animal10">Sheep can recognize human faces</string> // True
 </resources>
