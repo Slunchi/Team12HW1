@@ -27,7 +27,7 @@
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
-        android:layout_height="100dp"
+        android:layout_height="100sp"
         android:bufferType="normal"
         android:text="@string/true_button"
         android:textSize="22sp" />
