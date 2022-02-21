@@ -55,8 +55,8 @@ class ItemAdapter(
             else{
                 holder.answer.text = "Incorrect.\nThis is false."
             }
-            holder.trueButton.setVisibility(View.GONE)
-            holder.falseButton.setVisibility(View.GONE)
+            holder.trueButton.visibility = View.GONE
+            holder.falseButton.visibility = View.GONE
         }
         holder.falseButton.setOnClickListener {
             if(holder.qNumber.text !in true_answers) {
@@ -66,8 +66,8 @@ class ItemAdapter(
             else{
                 holder.answer.text = "Incorrect.\nThis is true."
             }
-            holder.trueButton.setVisibility(View.GONE)
-            holder.falseButton.setVisibility(View.GONE)
+            holder.trueButton.visibility = View.GONE
+            holder.falseButton.visibility = View.GONE
         }
     }
 
