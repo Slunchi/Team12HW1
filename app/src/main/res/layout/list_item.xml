@@ -27,7 +27,7 @@
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
-        android:layout_height="100sp"
+        android:layout_height="80sp"
         android:bufferType="normal"
         android:text="@string/true_button"
         android:textSize="22sp" />
@@ -35,7 +35,7 @@
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
-        android:layout_height="100dp"
+        android:layout_height="80sp"
         android:bufferType="normal"
         android:text="@string/false_button"
         android:textSize="22sp" />
