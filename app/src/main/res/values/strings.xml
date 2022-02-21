@@ -19,9 +19,11 @@
     <string name="q9">9/10</string>
     <string name="animal9">Koala\'s fingerprints look nearly identical to those of humans</string> // True
     <string name="q10">10/10</string>
-    <string name="animal10">Sheep can recognize human faces</string>
+    <string name="animal10">Sheep can recognize human faces</string> // True
     <string name="next">\\/ Next \\/</string>
     <string name="false_button">False</string>
     <string name="true_button">True</string>
-    // True
+    <string name="welcome">Welcome to <i>True or False</i>, a game where you guess which animal facts are lies!</string>
+    <string name="start">Play</string>
+
 </resources>
