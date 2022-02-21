@@ -53,7 +53,7 @@ class ItemAdapter(
                 holder.answer.text = "Correct!\nThis is true."
             }
             else{
-                holder.answer.text = "Incorrect.\nThis is false"
+                holder.answer.text = "Incorrect.\nThis is false."
             }
             holder.trueButton.setVisibility(View.GONE)
             holder.falseButton.setVisibility(View.GONE)
