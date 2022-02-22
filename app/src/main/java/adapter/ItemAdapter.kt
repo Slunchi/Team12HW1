@@ -64,7 +64,7 @@ class ItemAdapter(
 
             if (guesses == 5) {
                 val welcome: LinearLayout = findViewById(R.id.welcome_mod)
-                welcome.visibility = View.GONE
+                welcome.visibility = View.VISIBLE
             }
 
              */
@@ -84,7 +84,7 @@ class ItemAdapter(
             /*
             if (guesses == 5) {
                 val welcome: LinearLayout = findViewById(R.id.welcome_mod)
-                welcome.visibility = View.GONE
+                welcome.visibility = View.VISIBLE
             }
              */
         }
